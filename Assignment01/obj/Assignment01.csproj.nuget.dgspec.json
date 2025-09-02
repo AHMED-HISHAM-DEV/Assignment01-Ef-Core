@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Assignment01.csproj": {}
+    "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Assignment01.csproj": {}
   },
   "projects": {
-    "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Assignment01.csproj": {
+    "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Assignment01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Assignment01.csproj",
+        "projectUniqueName": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Assignment01.csproj",
         "projectName": "Assignment01",
-        "projectPath": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Assignment01.csproj",
+        "projectPath": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Assignment01.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\obj\\",
+        "outputPath": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

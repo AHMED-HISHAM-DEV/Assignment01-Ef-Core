@@ -1,30 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\",
+  "WorkspaceRootPath": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01solution\\assignment01\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01 ef-core\\assignment01\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Migrations\\20250902095124_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment01\\Migrations\\20250902095124_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01 ef-core\\assignment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01solution\\assignment01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Migrations\\20250902174855_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment01\\Migrations\\20250902174855_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01solution\\assignment01\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01 ef-core\\assignment01\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01 ef-core\\assignment01\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01 ef-core\\assignment01\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01 ef-core\\assignment01\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01 ef-core\\assignment01\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01solution\\assignment01\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01 ef-core\\assignment01\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01solution\\assignment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|e:\\route (fullstack .net)\\c#\\c# tasks\\assignment01 ef-core\\assignment01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0751BC4-C7DC-4184-A5A7-A887EBFD961A}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,76 +90,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250902095124_InitialCreate.cs",
-              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Migrations\\20250902095124_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Assignment01\\Migrations\\20250902095124_InitialCreate.cs",
-              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Migrations\\20250902095124_InitialCreate.cs",
-              "RelativeToolTip": "Assignment01\\Migrations\\20250902095124_InitialCreate.cs",
+              "DocumentIndex": 2,
+              "Title": "20250902174855_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Migrations\\20250902174855_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Assignment01\\Migrations\\20250902174855_InitialCreate.cs",
+              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Migrations\\20250902174855_InitialCreate.cs",
+              "RelativeToolTip": "Assignment01\\Migrations\\20250902174855_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T09:51:24.882Z",
+              "WhenOpened": "2025-09-02T17:48:55.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course_Inst.cs",
+              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Course_Inst.cs",
+              "RelativeDocumentMoniker": "Assignment01\\Models\\Course_Inst.cs",
+              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Course_Inst.cs",
+              "RelativeToolTip": "Assignment01\\Models\\Course_Inst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:38:39.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stud_Course.cs",
+              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Stud_Course.cs",
+              "RelativeDocumentMoniker": "Assignment01\\Models\\Stud_Course.cs",
+              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Stud_Course.cs",
+              "RelativeToolTip": "Assignment01\\Models\\Stud_Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:38:28.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "Assignment01\\Models\\Topic.cs",
+              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Topic.cs",
+              "RelativeToolTip": "Assignment01\\Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:38:18.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Assignment01\\Models\\Instructor.cs",
+              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Instructor.cs",
+              "RelativeToolTip": "Assignment01\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:38:10.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Assignment01\\Data\\AppDbContext.cs",
-              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Assignment01\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAABAwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T09:46:13.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Department.cs",
-              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Models\\Department.cs",
+              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Assignment01\\Models\\Department.cs",
-              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Models\\Department.cs",
+              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Department.cs",
               "RelativeToolTip": "Assignment01\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T09:45:49.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Course.cs",
-              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Models\\Course.cs",
+              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Assignment01\\Models\\Course.cs",
-              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Models\\Course.cs",
+              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Course.cs",
               "RelativeToolTip": "Assignment01\\Models\\Course.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T09:45:41.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Student.cs",
-              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Models\\Student.cs",
+              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Assignment01\\Models\\Student.cs",
-              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Models\\Student.cs",
+              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Models\\Student.cs",
               "RelativeToolTip": "Assignment01\\Models\\Student.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAzwA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T09:45:31.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Program.cs",
+              "DocumentMoniker": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Program.cs",
               "RelativeDocumentMoniker": "Assignment01\\Program.cs",
-              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01Solution\\Assignment01\\Program.cs",
+              "ToolTip": "E:\\Route (FullStack .Net)\\C#\\C# Tasks\\Assignment01 Ef-Core\\Assignment01\\Program.cs",
               "RelativeToolTip": "Assignment01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
